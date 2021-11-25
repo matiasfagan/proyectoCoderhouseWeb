@@ -1,0 +1,156 @@
+@charset "UTF-8";
+/*Fuentes*/
+/*Tamaño*/
+/*Colores*/
+.bodyContacto {
+  background-color: #ededed;
+}
+
+.contacto__titulo--principal {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Spartan", sans-serif;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.contacto__titulo--secundario {
+  margin-top: 20px;
+  font-family: "Spartan", sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.contacto_contenido {
+  font-family: "Spartan", sans-serif;
+  font-size: 15px;
+  text-align: left;
+  text-align: justify;
+  color: black;
+  padding-right: 40%;
+  font-weight: bold;
+}
+
+/*Fuentes*/
+/*Tamaño*/
+/*Colores*/
+.bodyQuienesSomos {
+  background-color: #ededed;
+}
+
+.quienesSomos__titulo--principal {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Spartan", sans-serif;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.quieneSomos__titulo--secundario {
+  margin-top: 20px;
+  font-family: "Spartan", sans-serif;
+  font-size: 32px;
+}
+
+.quienesSomos_contenido {
+  font-family: "Spartan", sans-serif;
+  font-size: 15px;
+  text-align: left;
+  text-align: justify;
+  color: black;
+  padding-right: 40%;
+  font-weight: bold;
+}
+
+/*Fuentes*/
+/*Tamaño*/
+/*Colores*/
+.bodyNuestrosProductos {
+  background-color: #ededed;
+}
+
+.nuestrosProductos__titulo--principal {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Spartan", sans-serif;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.nuestroProductos__titulo--secundario {
+  margin-top: 40px;
+  text-align: center;
+  font-family: "Spartan", sans-serif;
+  font-size: 32px;
+}
+
+.nuestrosProductos_contenido {
+  font-family: "Spartan", sans-serif;
+  font-size: 15px;
+  text-align: left;
+  text-align: justify;
+  color: black;
+  padding-right: 40%;
+  font-weight: bold;
+}
+
+header.masthead {
+  padding-top: 20rem;
+  padding-bottom: 35rem;
+  text-align: start;
+  background-image: url(../media/images/header.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+header.masthead .masthead-subheading {
+  font-size: 60px;
+  font-family: "Amatic SC", cursive;
+  color: white;
+}
+
+.fixed-top {
+  position: fixed;
+  text-align: center;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+ul {
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.propiedadesNav {
+  font-size: 18px;
+  color: white;
+}
+
+.propiedadesNavPages {
+  font-size: 18px;
+  color: black;
+}
+
+.homeFooter__image {
+  height: 50px;
+  width: 50px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.homeFooter__image:hover {
+  transform: scale(1.3);
+}
+
+/*# sourceMappingURL=style.css.map */

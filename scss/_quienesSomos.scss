@@ -1,0 +1,28 @@
+@import './variables';
+
+.bodyQuienesSomos{
+    background-color: #ededed;
+}
+.quienesSomos__titulo--principal{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: $fuentePrincipal;
+    font-size: $tamanioTituloPrincipal;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.quieneSomos__titulo--secundario{
+    margin-top: 20px;
+    font-family: $fuentePrincipal;
+    font-size: $tamanioTituloSecundario;
+}
+.quienesSomos_contenido{
+    font-family: $fuentePrincipal;
+    font-size: $tamanioContenido;
+    text-align: left;
+    text-align: justify;
+    color: $colorPrincipal;
+    padding-right: 40%;
+    font-weight: bold;
+}

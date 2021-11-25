@@ -1,0 +1,45 @@
+header.masthead{
+    padding-top: 20rem;
+    padding-bottom: 35rem;
+    text-align: start;
+    background-image: url(../media/images/header.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+header.masthead .masthead-subheading {
+    font-size: 60px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+}
+.fixed-top {
+    position: fixed;
+    text-align: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+ul{
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+  }
+.propiedadesNav{
+    font-size: 18px;
+    color: white;
+}
+.propiedadesNavPages{
+    font-size: 18px;
+    color: black;
+}
+.homeFooter__image{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.homeFooter__image:hover{
+    transform: scale(1.3);
+}

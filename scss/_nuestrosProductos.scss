@@ -1,0 +1,29 @@
+@import './variables';
+
+.bodyNuestrosProductos{
+    background-color: #ededed;
+}
+.nuestrosProductos__titulo--principal{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: $fuentePrincipal;
+    font-size: $tamanioTituloPrincipal;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.nuestroProductos__titulo--secundario{
+    margin-top: 40px;
+    text-align: center;
+    font-family: $fuentePrincipal;
+    font-size: $tamanioTituloSecundario;
+}
+.nuestrosProductos_contenido{
+    font-family: $fuentePrincipal;
+    font-size: $tamanioContenido;
+    text-align: left;
+    text-align: justify;
+    color: $colorPrincipal;
+    padding-right: 40%;
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+@import './variables';
+
+.bodyContacto{
+    background-color: #ededed;
+}
+.contacto__titulo--principal{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: $fuentePrincipal;
+    font-size: $tamanioTituloPrincipal;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.contacto__titulo--secundario{
+    margin-top: 20px;
+    font-family: $fuentePrincipal;
+    font-size: $tamanioTituloSecundario;
+    font-weight: bold;
+}
+.contacto_contenido{
+    font-family: $fuentePrincipal;
+    font-size: $tamanioContenido;
+    text-align: left;
+    text-align: justify;
+    color: $colorPrincipal;
+    padding-right: 40%;
+    font-weight: bold;
+}
