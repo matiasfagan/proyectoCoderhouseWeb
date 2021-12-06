@@ -18,12 +18,16 @@
     font-family: $fuentePrincipal;
     font-size: $tamanioTituloSecundario;
 }
+.nuestroProductos__titulo--terciario{
+    font-family: $fuentePrincipal;
+    font-size: $tamanioTituloTerciario;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
 .nuestrosProductos_contenido{
     font-family: $fuentePrincipal;
-    font-size: $tamanioContenido;
-    text-align: left;
-    text-align: justify;
+    font-size: 14px;
     color: $colorPrincipal;
-    padding-right: 40%;
     font-weight: bold;
 }
+

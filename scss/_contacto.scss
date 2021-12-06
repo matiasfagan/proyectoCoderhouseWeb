@@ -18,12 +18,12 @@
     font-size: $tamanioTituloSecundario;
     font-weight: bold;
 }
+.contacto__titulo--terciario{
+    font-family: $fuentePrincipal;
+    font-size: 15px;
+    font-weight: bold;
+}
 .contacto_contenido{
     font-family: $fuentePrincipal;
-    font-size: $tamanioContenido;
-    text-align: left;
-    text-align: justify;
-    color: $colorPrincipal;
-    padding-right: 40%;
-    font-weight: bold;
+    font-size: 14px;
 }
