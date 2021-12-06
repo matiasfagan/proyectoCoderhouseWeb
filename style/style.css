@@ -23,14 +23,15 @@
   font-weight: bold;
 }
 
-.contacto_contenido {
+.contacto__titulo--terciario {
   font-family: "Spartan", sans-serif;
   font-size: 15px;
-  text-align: left;
-  text-align: justify;
-  color: black;
-  padding-right: 40%;
   font-weight: bold;
+}
+
+.contacto_contenido {
+  font-family: "Spartan", sans-serif;
+  font-size: 14px;
 }
 
 /*Fuentes*/
@@ -90,13 +91,17 @@
   font-size: 32px;
 }
 
+.nuestroProductos__titulo--terciario {
+  font-family: "Spartan", sans-serif;
+  font-size: 22px;
+  font-weight: bolder;
+  margin-bottom: 15px;
+}
+
 .nuestrosProductos_contenido {
   font-family: "Spartan", sans-serif;
-  font-size: 15px;
-  text-align: left;
-  text-align: justify;
+  font-size: 14px;
   color: black;
-  padding-right: 40%;
   font-weight: bold;
 }
 
@@ -151,6 +156,21 @@ ul {
 
 .homeFooter__image:hover {
   transform: scale(1.3);
+}
+
+/*Fuentes*/
+/*Tamaño*/
+/*Colores*/
+.error404--tituloPrimario {
+  margin-top: 80px;
+  margin-bottom: 120px;
+  font-family: "Spartan", sans-serif;
+  font-size: 70px;
+}
+
+.error404--tituloSecundario {
+  font-family: "Spartan", sans-serif;
+  font-size: 35px;
 }
 
 /*# sourceMappingURL=style.css.map */
